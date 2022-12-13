@@ -3,7 +3,7 @@ import java.util.List;
 import java.util.Scanner;
 
 //깃헙 풀 리퀘 테스트
-
+// Full request test
 public class Main {
     private List<Contact> contacts = new ArrayList<>();
 
